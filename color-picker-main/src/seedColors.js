@@ -28,7 +28,7 @@ export default [
     {
       paletteName: "Flat UI Colors v1",
       id: "flat-ui-colors-v1",
-      emoji: "🤙",
+      emoji: "🇺🇿",
       colors: [
         { name: "Turquoise", color: "#1abc9c" },
         { name: "Emerald", color: "#2ecc71" },
@@ -109,7 +109,7 @@ export default [
     {
       paletteName: "Flat UI Colors Aussie",
       id: "flat-ui-colors-aussie",
-      emoji: "🇦🇺",
+      emoji: "🇺🇿",
       colors: [
         { name: "Beekeeper dashed", color: "#f6e58d" },
         { name: "SpicedNectarine", color: "#ffbe76" },

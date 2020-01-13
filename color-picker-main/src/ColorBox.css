@@ -1,7 +1,3 @@
-body {
-    overflow-y: hidden; /* Hide vertical scrollbar */
-    overflow-x: hidden; /* Hide horizontal scrollbar */
-  }
 .ColorBox{
     width: 20%;
     height: 25%;
