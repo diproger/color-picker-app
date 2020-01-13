@@ -111,7 +111,7 @@ export default [
       id: "flat-ui-colors-aussie",
       emoji: "🇦🇺",
       colors: [
-        { name: "Beekeeper", color: "#f6e58d" },
+        { name: "Beekeeper dashed", color: "#f6e58d" },
         { name: "SpicedNectarine", color: "#ffbe76" },
         { name: "PinkGlamour", color: "#ff7979" },
         { name: "JuneBud", color: "#badc58" },
