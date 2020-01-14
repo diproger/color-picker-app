@@ -18,6 +18,8 @@ function App() {
           <Route exact path="/palette/:id" render={ routeProps => <Palette
            palette={generatePalette(findPalette(routeProps.match.params.id))}
            /> } />
+           <Route exact path="/palette/:paletteId/:colorId" render={()=><h1>Color id</h1>} />
+
     </Switch>
 
     // <div className="App">
